@@ -1,0 +1,26 @@
+{
+    "scripts": {
+    "start": "node server.js"
+  },
+  "name": "employee-tracker",
+  "description": "",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trishamasbate/employee-tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trishamasbate/employee-tracker/issues"
+  },
+  "homepage": "https://github.com/trishamasbate/employee-tracker#readme",
+  "dependencies": {
+    "cfonts": "^3.1.1",
+    "chalk": "^5.2.0",
+    "console.table": "^0.10.0",
+    "inquirer": "^8.2.4",
+    "mysql2": "^3.1.2"
+  }
+}
