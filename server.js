@@ -29,7 +29,7 @@ connection.connect((err) => {
 cfonts.say('Employee \nTracker', {
 	font: 'block',              // Font face for the title
 	align: 'left',              // Alignment of the text
-	colors: ['violet'],         // Color of the text
+	colors: ['magenta'],        // Color of the text
 	background: 'transparent',  // Background color
 	letterSpacing: 1,           // Letter spacing
 	lineHeight: 1,              // Line height
