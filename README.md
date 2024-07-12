@@ -82,7 +82,7 @@ THEN I am prompted to select an employee to update and their new role and this i
 8. Launch the application with `npm start` and follow the on-screen instructions to view and manage your company’s departments, roles, and employees.
 
 ## 🎞️ Walkthrough Video:
-[Click To See Some Magic!]()
+[Click To See Some Magic!](https://youtu.be/WIW7-shk1dc?si=bhHRTt7HfAKoH6fb)
 
 ## 📸 Screenshots:
 ### 🟢 Welcome Page
